@@ -3,9 +3,9 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                bat 'dotnet build SOAPService.sln'
-                bat 'dotnet build RESTApi.sln'
-                bat 'dotnet build GrpcService.sln'
+                bat 'dotnet build ./SOAPService/SOAPService.sln'
+                bat 'dotnet build ./RESTApi/RESTApi.sln'
+                bat 'dotnet build ./GrpcService/GrpcService.sln'
             }
         }
         stage('Test') {
