@@ -10,7 +10,10 @@ pipeline {
         }
         stage('Test') {
             steps {
-                bat 'dotnet test'
+                // Specify each solution or test project file explicitly
+                bat 'dotnet test ./SOAPService/SOAPService.sln'
+                bat 'dotnet test ./RESTApi/RESTApi.sln'
+                bat 'dotnet test ./GrpcService/GrpcService.sln'
             }
         }
         stage('Docker Build') {
