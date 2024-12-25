@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\RESTApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|c:\\users\\dell\\source\\repos\\restapi\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|solutionrelative:productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|c:\\users\\dell\\source\\repos\\restapi\\adventureworksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|solutionrelative:adventureworksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|c:\\users\\dell\\source\\repos\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|c:\\users\\dell\\source\\repos\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|c:\\users\\dell\\source\\repos\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{821A8D78-2761-4992-B445-52559F8E161A}|RESTApi.csproj|solutionrelative:restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\RESTApi\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\RESTApi\\ProductsController.cs",
+              "RelativeToolTip": "ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T23:48:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\RESTApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\RESTApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T23:47:30.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdventureWorksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\RESTApi\\AdventureWorksDbContext.cs",
+              "RelativeDocumentMoniker": "AdventureWorksDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\RESTApi\\AdventureWorksDbContext.cs",
+              "RelativeToolTip": "AdventureWorksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:16:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\RESTApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\RESTApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T01:15:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RESTApi.http",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\RESTApi\\RESTApi.http",
+              "RelativeDocumentMoniker": "RESTApi.http",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\RESTApi\\RESTApi.http",
+              "RelativeToolTip": "RESTApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-23T00:26:03.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

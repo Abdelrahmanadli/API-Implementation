@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\SOAPService\bin\Debug\SOAPService.dll.config
+C:\Users\Dell\source\repos\SOAPService\bin\Debug\SOAPService.dll
+C:\Users\Dell\source\repos\SOAPService\bin\Debug\SOAPService.pdb
+C:\Users\Dell\source\repos\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\Dell\source\repos\SOAPService\obj\Debug\SOAPService.pdb
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\bin\Debug\SOAPService.dll.config
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\bin\Debug\SOAPService.dll
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\bin\Debug\SOAPService.pdb
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\obj\Debug\SOAPService.dll
+C:\Users\Dell\Desktop\Big Testing Ground\SOAPService\obj\Debug\SOAPService.pdb
