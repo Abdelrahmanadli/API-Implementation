@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\GrpcService\\GrpcService.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\API Implementation\\GrpcService\\GrpcService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\GrpcService\\GrpcService.csproj": {
+    "C:\\Users\\Dell\\Desktop\\API Implementation\\GrpcService\\GrpcService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\GrpcService\\GrpcService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\API Implementation\\GrpcService\\GrpcService.csproj",
         "projectName": "GrpcService",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\GrpcService\\GrpcService.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\API Implementation\\GrpcService\\GrpcService.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\GrpcService\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\API Implementation\\GrpcService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

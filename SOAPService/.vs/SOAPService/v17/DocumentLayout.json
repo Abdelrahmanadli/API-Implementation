@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|c:\\users\\dell\\desktop\\big testing ground\\soapservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|c:\\users\\dell\\desktop\\api implementation\\soapservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|solutionrelative:icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|solutionrelative:customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "AbsoluteMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
       "RelativeMoniker": "D:0:0:{BBC8953F-0C62-467C-9A82-7FED62C0B61E}|SOAPService.csproj|solutionrelative:service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Service.svc",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\Service.svc",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\Service.svc",
               "RelativeDocumentMoniker": "Service.svc",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\Service.svc",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\Service.svc",
               "RelativeToolTip": "Service.svc",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\CustomerService.cs",
               "RelativeDocumentMoniker": "CustomerService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\CustomerService.cs",
               "RelativeToolTip": "CustomerService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\ICustomerService.cs",
               "RelativeDocumentMoniker": "ICustomerService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\ICustomerService.cs",
               "RelativeToolTip": "ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\Big Testing Ground\\SOAPService\\App.config",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\API Implementation\\SOAPService\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

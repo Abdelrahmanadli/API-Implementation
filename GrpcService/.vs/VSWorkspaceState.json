@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\obj",
-    "\\Properties",
-    "\\Protos",
-    "\\Services"
+    ""
   ],
-  "SelectedNode": "\\GrpcService.csproj",
+  "SelectedNode": "\\product.proto",
   "PreviewInSolutionExplorer": false
 }
